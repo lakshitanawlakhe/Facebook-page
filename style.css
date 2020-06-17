@@ -200,6 +200,7 @@
 			margin: 0px;
 		}
 			.grid-item1{
+			grid-column: 1 / span 6;
 			color: white;
 			font-family: calibri;
 			font-weight: bold;
