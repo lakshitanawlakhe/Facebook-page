@@ -190,3 +190,12 @@
 			padding-top: 20px;
 			font-size: 11px;
 		}
+		@media only screen and (max-width: 400px){
+			.nav{
+			background-color: #3b5998;
+			height: 84px;
+			width: 100%;
+		}
+			body{
+			margin: 0px;
+		}
