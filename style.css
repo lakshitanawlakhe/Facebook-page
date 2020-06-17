@@ -199,3 +199,11 @@
 			body{
 			margin: 0px;
 		}
+			.grid-item1{
+			color: white;
+			font-family: calibri;
+			font-weight: bold;
+			font-size: 47px;
+			padding-left: 190px;
+			padding-top: 18px;
+		}
